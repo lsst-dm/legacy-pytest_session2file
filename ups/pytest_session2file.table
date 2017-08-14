@@ -1,0 +1,3 @@
+setupRequired(python)
+setupRequired(pytest)
+envPrepend(PYTHONPATH, ${PRODUCT_DIR}/lib/python)
